@@ -48,9 +48,9 @@
     </td>
         <td align="center" width="96">
       <a href="#" >
-        <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="LangChain" />
+        <img src="https://avatars.githubusercontent.com/u/170677839?v=4" width="48" height="48" alt="CrewAI" />
       </a>
-      <br>LangChain
+      <br>CrewAI
     </td>
     <td align="center" width="96">
       <a href="#">
