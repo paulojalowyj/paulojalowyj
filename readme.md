@@ -28,7 +28,7 @@ ___
   <img
   align="right"
   vertical
-  src="https://github-readme-streak-stats.herokuapp.com/?user=paulojalowyj&theme=dracula"
+  src="https://github-readme-streak-stats.herokuapp.com?user=paulojalowyj&theme=transparent&hide_border=true&short_numbers=true"
   alt="GitHub Stats"
 />
 </a>
