@@ -21,31 +21,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Jalowyj-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
+</br>
 
-___
+<h2 id="tech-stack" align="left">🧠 About me</h2>
 
-<a href="#tech-stack">
-  <img
-  align="right"
-  vertical
-  src="https://github-readme-streak-stats.herokuapp.com?user=paulojalowyj&theme=transparent&hide_border=true&short_numbers=true"
-  alt="GitHub Stats"
-/>
-</a>
-
-
-<span>
-
-### 🧠 About me
-
-- 🏗️ Building products at **[Sidérea Academy](https://sidereaacademy.com)**
+- 🏗️ Building products at **[Sidérea Academy](https://sidereaacademy.com)** and **[ESMAFE](https://www.esmafe.com)**
 - 🤖 Focused on **AI systems**, **backend architecture**, and **product engineering**
 - 🧪 Strong believer in experimentation, clean abstractions, and real-world impact
 - 💬 I enjoy talking about **AI, software design, and technology strategy**
 - 📫 Reach me at **[paulo@siderea.io](mailto:paulo@siderea.io)**
-</span>
 
----
+</br>
 
 <h2 id="tech-stack" align="left">🛠 Tech Stack</h2>
 
@@ -92,7 +78,7 @@ ___
   </tr>
 </table>
 
----
+</br>
 
 <h2 align="left">📊 Coding Activity</h2>
 
