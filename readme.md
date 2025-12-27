@@ -22,15 +22,19 @@
   </a>
 </p>
 
+___
+
 <a href="#tech-stack">
   <img
-    align="right"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=paulojalowyj&theme=dracula"
-    alt="GitHub Streak"
-  />
+  align="right"
+  vertical
+  src="https://github-readme-streak-stats.herokuapp.com/?user=paulojalowyj&theme=dracula"
+  alt="GitHub Stats"
+/>
 </a>
 
----
+
+<span>
 
 ### 🧠 About me
 
@@ -39,6 +43,7 @@
 - 🧪 Strong believer in experimentation, clean abstractions, and real-world impact
 - 💬 I enjoy talking about **AI, software design, and technology strategy**
 - 📫 Reach me at **[paulo@siderea.io](mailto:paulo@siderea.io)**
+</span>
 
 ---
 
