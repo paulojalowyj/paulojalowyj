@@ -25,7 +25,7 @@
 <a href="#tech-stack">
   <img
     align="right"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=paulojalowyj&theme=default"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=paulojalowyj&theme=dracula"
     alt="GitHub Streak"
   />
 </a>
